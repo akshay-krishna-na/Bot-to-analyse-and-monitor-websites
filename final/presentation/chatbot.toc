@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Intro}{2}{0}{1}
+\beamer@sectionintoc {2}{Statement}{3}{0}{2}
+\beamer@sectionintoc {3}{Approaches}{4}{0}{3}
+\beamer@sectionintoc {4}{Flow Chart}{6}{0}{4}
+\beamer@sectionintoc {5}{Algorithm}{6}{0}{5}
+\beamer@sectionintoc {6}{Relevance}{6}{0}{6}
+\beamer@sectionintoc {7}{Applications}{7}{0}{7}
